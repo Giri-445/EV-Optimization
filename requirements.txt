@@ -3,3 +3,4 @@ numpy
 pycaret
 streamlit
 plotly
+streamz
